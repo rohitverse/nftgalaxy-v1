@@ -8,9 +8,9 @@ PreRequisites
 ## 3. Install Git 
 [Click Here & Download ](https://git-scm.com/downloads)
 
-Now Open Terminal and copy paste step by step
-
+# Now Open Terminal and Run All Steps one bye one
 ## Steps to Run
+
 
 Step 1 : Clone this Repo
 
