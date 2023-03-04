@@ -12,20 +12,20 @@ PreRequisites
 ## Steps to Run
 
 
-Step 1 : Clone this Repo
+## Step 1 : Clone this Repo
 
 ``` git clone https://github.com/rohitverse/nftgalaxy-v1.git ```
 
 <img width="258" alt="image" src="https://user-images.githubusercontent.com/67726628/222906275-d2a5ac26-67fd-44e6-b7ed-309e1d5ec215.png">
 
-Step 2 : change directory to enter in the folder 
+## Step 2 : change directory to enter in the folder 
 
 ```cd .\nftgalaxy-v1\```
 
 <img width="258" alt="image" src="https://user-images.githubusercontent.com/67726628/222906473-c26e6b1f-6eb9-467e-88f4-5bad46032f1f.png">
 
 
-Step 3 : Open new VS Code Window
+##  Step 3 : Open new VS Code Window
 ``` code ./ ```
 
 <img width="275" alt="image" src="https://user-images.githubusercontent.com/67726628/222906532-2f5aa3a0-69c9-41a3-831e-4f3665c7aec5.png">
@@ -35,7 +35,7 @@ Now Folder Structure Looks like 👍
 <img width="490" alt="image" src="https://user-images.githubusercontent.com/67726628/222906646-97f5d20e-9b25-43bb-9503-4052fc45d029.png">
 
 
-Step 4 : install all packages from package.json
+##  Step 4 : install all packages from package.json
 
 ``` npm install ```
 
@@ -45,7 +45,7 @@ It will take few minutes to install all packages
 
 Now we will get the node moduules folder because we installed all packages from package.json that are all packages are stored in the form of modules in the ```node_modules```
 
-Step 5 : Start Frontend 
+##  Step 5 : Start Frontend 
 
 ``` npm run dev ```
 
@@ -61,3 +61,13 @@ Click on Follow Link or ```ctrl + click```
 
 
 Happy Learning!
+
+
+## If you want to run this project then open the folder with vs code 
+
+# Run Command 
+
+```npm run dev ```
+
+Frontend will run automatically basically we followed STEP 5 here!
+
