@@ -8,7 +8,7 @@ PreRequisites
 ## 3. Install Git 
 [Click Here & Download ](https://git-scm.com/downloads)
 
-# Now Open Terminal and Run All Steps one bye one
+# Now Open Terminal and Run All Steps one by one
 ## Steps to Run
 
 
